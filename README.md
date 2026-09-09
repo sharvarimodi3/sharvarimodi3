@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Sharvari Modi 👋
+💻 Aspiring Developer | 🌱 Always Learning
 
-<!--
-**sharvarimodi3/sharvarimodi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast exploring the world of programming and development.
+Currently learning, experimenting and improving my skills one line of code at a time. ✨
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python · Java · C · C++ · HTML · CSS · MySQL · Git · GitHub
+
+🌱 Currently Learning
+Web Development
+Problem Solving
+New technologies & tools
+
+🎯 Goals
+
+Build meaningful projects, keep learning and grow as a developer. 🚀
+
+📫 Let's Connect
+
+⭐ Learning today. Building tomorrow.
